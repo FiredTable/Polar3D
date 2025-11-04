@@ -3,7 +3,7 @@
 Junzhuo Zhou, Jun Zou, Ye Qiu, Zhihe Liu, Jia Hao, Wenli Li, Yiting Yu  <br/>
 
 ## Demo Display
-![PF-IGEV算法效果演示](images/output.gif) <br/>
+![PF-IGEV算法效果演示](./images/output.gif) <br/>
 *Figure 1: Performance demonstration of the PF-IGEV stereo matching algorithm. In the animated image, the first row shows the original left image, the second row displays the polarization fusion result, and the third row presents the stereo matching result.*
 
 ## Environment
