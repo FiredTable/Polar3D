@@ -1,0 +1,6 @@
+__pycache__/                                                                                                                                                 
+*.pyc                                                                                                                                                        
+*.pth                                                                                                                                                        
+checkpoints/                                                                                                                                                 
+checkpoints_stereo/                                                                                                                                          
+checkpoints_fusion_stereo/   
